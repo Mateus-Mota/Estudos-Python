@@ -39,5 +39,3 @@
 <h4>Módulo 10 - Estrutura de repetição while</h4>
 
 <h4>Módulo 11 - Interrompendo repetições while</h4>
-
-<h4>Módulo 12 - Interrompendo repetições while</h4>
