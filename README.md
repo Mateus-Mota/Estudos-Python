@@ -30,8 +30,6 @@
 
 <h4>Módulo 06 - Condicionais </h4>
 
-<h4>Módulo 07 - Cores </h4>
-
 <h4>Módulo 08 - Condicionais Aninhadas </h4>
 
 <h4>Módulo 09 - Estrutura de repetição for</h4>
