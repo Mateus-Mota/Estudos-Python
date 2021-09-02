@@ -12,7 +12,7 @@
 <p>Repositório destinado as minhas resoluções das atividades sobre fundamentos de Programação em Python.</p>
 
 <h2 id="Links">:link: Links</h2>
-<h3><a href=https://ifpb-1.gitbook.io/estrutura-de-dados/> Livro da Disciplina (IFPB):green_book:</a></h3>
+<h3><a href=></a></h3>
 
 <h2 id="Checklist" >:white_check_mark: Checklist</h2>
 
