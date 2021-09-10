@@ -18,22 +18,16 @@
 
 <h3>Estrutura de dados</h3>
 
-<h4>Módulo 01 - </h4>
+<h4>Módulo 01 - Tipos Primitovs e Saída de Dados </h4>
 
-<h4>Módulo 02 - Tipos Primitovs e Saída de Dados </h4>
+<h4>Módulo 02 - Operadores Númericos </h4>
 
-<h4>Módulo 03 - Operadores Númericos </h4>
+<h4>Módulo 03 - Utilizando Módulos </h4>
 
-<h4>Módulo 04 - Utilizando Módulos </h4>
+<h4>Módulo 04 - Manipulando Texto </h4>
 
-<h4>Módulo 05 - Manipulando Texto </h4>
+<h4>Módulo 05 - Condicionais if, elif e else </h4>
 
-<h4>Módulo 06 - Condicionais </h4>
+<h4>Módulo 06 - Estrutura de repetição for</h4>
 
-<h4>Módulo 08 - Condicionais Aninhadas </h4>
-
-<h4>Módulo 09 - Estrutura de repetição for</h4>
-
-<h4>Módulo 10 - Estrutura de repetição while</h4>
-
-<h4>Módulo 11 - Interrompendo repetições while</h4>
+<h4>Módulo 07 - Estrutura de repetição while</h4>
