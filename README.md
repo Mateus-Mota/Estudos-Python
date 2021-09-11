@@ -20,9 +20,9 @@
 
 <h3>Mundo 1: Primeiros passos em Python</h3>
 
-<h4>Módulo 01 - Tipos Primitovs e Saída de Dados </h4>
+<h4>Módulo 01 - Tipos Primitovs e Saída de Dados :white_check_mark: </h4>
 
-<h4>Módulo 02 - Operadores Númericos </h4>
+<h4>Módulo 02 - Operadores Númericos :white_check_mark: </h4>
 
 <h4>Módulo 03 - Utilizando Módulos </h4>
 
