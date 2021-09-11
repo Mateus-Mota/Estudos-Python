@@ -4,7 +4,7 @@ var=input("Digite alguma informação: ")
 print(f"TIPO PRIMITIVO: {type(var)} \nNÚMERICO: {var.isnumeric()} \nALFANÚMERICO: {var.isalpha()} \nSÓ POSSUI ESPAÇOS: {var.isspace()}\nTODO MAISCÚLO: {var.isupper()} \nTODO MINUSCULO: {var.islower()}")
 ~~~
 
-# Desafio 005 -Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+# Desafio 005 - Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 ~~~python
 num=int(input("Digite um número: "))
 print(f"Sucessor: {num - 1}\nAntecessor: {num - 2}")
