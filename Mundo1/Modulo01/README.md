@@ -9,7 +9,7 @@ nome=input("Digite seu nome: ")
 print(f"Bem-vindo(a), {nome}!")
 ~~~
 
-# Desafio 003- Crie um programa que leia dois números e mostre a soma entre eles.
+# Desafio 003 - Crie um programa que leia dois números e mostre a soma entre eles.
 ~~~python
 num1=int(input("Digite o 1° número: "))
 num2=int(input("Digite o 2° número: "))
