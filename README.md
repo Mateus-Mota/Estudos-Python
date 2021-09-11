@@ -28,7 +28,7 @@
 
 <h4>Módulo 04 - Manipulando Texto </h4>
 
-<h5>Módulo 05 - Cores no terminal </h5>
+<h4>Módulo 05 - Cores no terminal </h4>
 
 <h3>Mundo 2: Estruturas de Controle </h3>
 
