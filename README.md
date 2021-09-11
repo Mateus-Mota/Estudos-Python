@@ -28,29 +28,30 @@
 
 <h4>Módulo 04 - Manipulando Texto </h4>
 
-<h4>Módulo 05 - Cores no terminal </h4>
+<h4>Módulo 05 - Condições </h4> 
+
+<h4>Módulo 06 - Cores no terminal </h4>
 
 <h3>Mundo 2: Estruturas de Controle </h3>
 
-<h4>Módulo 06 - Condicionais Aninhadas</h4>
+<h4>Módulo 07 - Condicionais Aninhadas</h4>
 
-<h4>Módulo 07 - Estrutura de repetição for</h4>
+<h4>Módulo 08 - Estrutura de repetição for</h4>
 
-<h4>Módulo 08 - Estrutura de repetição while</h4>
+<h4>Módulo 09 - Estrutura de repetição while</h4>
 
-<h4>Módulo 09 - Interrompendo repetições while</h4>
+<h4>Módulo 10 - Interrompendo repetições while</h4>
 
 <h3>Mundo 3: Estruturas Compostas</h3>
 
-<h4>Módulo 10 - Tuplas</h4>
+<h4>Módulo 11 - Tuplas</h4>
 
-<h4>Módulo 11 - Listas</h4>
+<h4>Módulo 12 - Listas</h4>
 
-<h4>Módulo 12 - Dicionários</h4>
+<h4>Módulo 13 - Dicionários</h4>
 
-<h4>Módulo 13 - Funções</h4>
+<h4>Módulo 14 - Funções</h4>
 
-<h4>Módulo 14 - Módulos e Pacotes</h4>
+<h4>Módulo 15 - Módulos e Pacotes</h4>
 
-<h4>Módulo 14 - Tratamento de erros e excessões</h4>
-
+<h4>Módulo 16 - Tratamento de erros e excessões</h4>
