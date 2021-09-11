@@ -55,3 +55,22 @@ print(f"Será necessário: {(largura * altura) / 2} litros")
 preco=int(input("Preço: "))
 print(f"NOVO PREÇO: {preco - ( (preco * 5) / 100 )}")
 ~~~
+
+# Desafio 013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+~~~python
+salario=int(input("Digite o valor do seu salário: "))
+print(f"NOVO SALÁRIO: {salario + ( (salario * 15) / 100 ) }")
+~~~
+
+# Desafio 014 - Escreva um programa que converta uma temperatura digitada em °C e converta pra °F.
+~~~python
+temperatura_celcius=float(input("Digita a temperatura em Celcius: "))
+print(f"TEMPERATURA EM Fahrenheit: {(temperatura_celcius * 1.8) + 32} ")
+~~~
+
+# Desafio 015 - Escreva um programa que pergunte a quantidade de Km percorridas por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodada.
+~~~python
+km_percorridos=float(input("Digite a quantidade de Km percorridos: "))
+dias_alugados=float(input("Digite a quantidade de dias alugados: "))
+print(f"PREÇO A PAGAR: { (60 * dias_alugados) + ( km_percorridos * 0.15)}")
+~~~

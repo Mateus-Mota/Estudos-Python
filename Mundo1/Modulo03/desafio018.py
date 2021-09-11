@@ -1,0 +1,1 @@
+#Faça um programa que leia um ângulo qualquer e mostre na cossano e tangete de ângulo.
