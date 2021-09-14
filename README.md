@@ -24,11 +24,11 @@
 
 <h4>Módulo 02 - Operadores Númericos :white_check_mark: </h4>
 
-<h4>Módulo 03 - Utilizando Módulos </h4>
+<h4>Módulo 03 - Utilizando Módulos :white_check_mark: </h4>
 
-<h4>Módulo 04 - Manipulando Texto </h4>
+<h4>Módulo 04 - Manipulando Texto :white_check_mark: </h4>
 
-<h4>Módulo 05 - Condições </h4> 
+<h4>Módulo 05 - Condições :white_check_mark: </h4> 
 
 <h4>Módulo 06 - Cores no terminal </h4>
 
